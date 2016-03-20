@@ -1,0 +1,15 @@
+{
+  "name": "wh-popup",
+  "version": "0.0.1",
+  "description": "wh.ui.popup port",
+  "main": "popup.es",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.b-lex.com/components/wh-popup.git"
+  },
+  "author": "B-Lex IT BV",
+  "license": "MIT"
+}
