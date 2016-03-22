@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitlab.b-lex.com/components/wh-popup.git"
+    "url": "git@github.com:WebHare/wh-popup.git"
   },
   "author": "B-Lex IT BV",
   "license": "MIT"
