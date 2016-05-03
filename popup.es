@@ -1927,4 +1927,5 @@ function closeAll()
 
 module.exports = { createFromElement: (element,settings) => PopupManager.createFromElement(element,settings)
                  , setDefaultPopupOptions: (opts) => PopupManager.setDefaultPopupOptions(opts)
+                 , BasicPopup: BasicPopup
                  };
